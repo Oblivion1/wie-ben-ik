@@ -4,6 +4,7 @@
     <title>Oblivion Development</title>
     <meta charset="utf-8">
     <link href="style.css" rel="stylesheet">
+    <link href="banner.jpg" rel="icon">
   </head>
   <body>
     <div class="Navigationdesktop">
