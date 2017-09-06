@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Oblivion Development</title>
+    <meta charset="utf-8">
+    <link href="style.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="Navigationdesktop">
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="AI">Algemene info</a></li>
+          <li><a href="Opleiding">Over mij</a>
+            <ul>
+              <li><a href="Opleiding">Opleidingen</a></li>
+              <li><a href="Vaardigheden">Vaardigheden</a></li>
+              <li><a href="Werkervaring">Werkervaring</a></li>
+              <li><a href="MD">Mijn Doel</a></li>
+            </ul>
+          </li>
+          <li><a href="CG">Contact</a>
+            <ul>
+              <li><a href="CG">contactgegevens</a></li>
+              <li><a href="Locatie">Locatie</a></li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+  </div>
+  <div class="Maintext">
+    <h1>Mijn vaardigheden</h1>
+      <ul>
+        <li>MBO werk- en denkniveau</li>
+        <li>Enthousiase en positieve instelling</li>
+        <li>goede contactuele eigenschappen</li>
+        <li>Proactieve doorzetter en oplossingsgericht denkend</li>
+        <li>Een teamplayer die zijn verantwoordelijkheid draagt</li>
+        <li>Leergierig van aard</li>
+        <li>Goede beheersing van de Nederlandse taal in woord en geschrift</li>
+        <li>Beheersing van Engelse</li>
+        <li>Bekend en bedreven met MS Office</li>
+      </ul>
+
+  </div>
+  </body>
+
+
+
+</html>

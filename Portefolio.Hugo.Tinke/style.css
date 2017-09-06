@@ -1,0 +1,106 @@
+
+body {
+      background:url('downloaded.jpg') ;
+      background-size: cover;
+
+    }
+.Maintext {
+        background-color: black;
+        opacity: 0.6;
+        margin: 50px;
+        width: 600px;
+        height: 700px;
+        font-family: georgia;
+        border-radius: 10px;
+        color: white;
+
+}
+.Navigationdesktop  {
+        background-color: black;
+        opacity: 0.75;
+        margin: 0px;
+        padding: 0px;
+        border-radius: 10px;
+      }
+
+      nav {
+      	height:40px;
+      	width:700px;
+      	display:block;
+      	margin:0 auto;
+      	text-align: center;
+      	text-transform: uppercase;
+      }
+
+      nav a{
+      	display:block;
+      	text-decoration: none;
+      	font-family: monospace;
+      	font-weight: bold;
+      	font-size:15pt;
+        color: white;
+      }
+
+      nav a:hover{
+      	background:#223433;
+      	color:#f0f1f5;
+        border-radius: 10px;
+        cursor: pointer;
+        opacity: 0.8;
+        animation: load 500ms forwards;
+      }
+
+      nav ul{
+      	list-style: none;
+        padding: 0px;
+        margin: 0px;
+      }
+
+      nav ul li{
+      	float:left;
+      	width:170px;
+      	height:40px;
+      	line-height: 40px;
+      	background:black;
+        opacity: 0.75;
+      }
+
+      nav ul ul li{
+      	position:relative;
+      	display:none;
+
+      }
+
+      nav ul li:hover ul li{
+      	display: block;
+        opacity: 0;
+        animation: load 500ms forwards;
+      }
+
+      nav ul li:hover ul li:last-child{
+      	display: block;
+        opacity: 0;
+        animation: load 500ms forwards;
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+      }
+
+      @keyframes load {
+        100%{
+          opacity: 1;
+        }
+      }
+
+.Maintext h1,h4 {
+  padding: 14px;
+  color: white;
+  text-align: center;
+}
+.Maintext p {
+  padding-left: 50px;
+  max-width: 500px;
+  color:white;
+  text-align: justify;
+
+
+}

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Oblivion Development</title>
+    <meta charset="utf-8">
+    <link href="style.css" rel="stylesheet">
+    <link href="banner.jpg" rel="icon">
+  </head>
+  <body>
+    <div class="Navigationdesktop">
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="AI">Algemene info</a></li>
+          <li><a href="Opleiding">Over mij</a>
+            <ul>
+              <li><a href="Opleiding">Opleidingen</a></li>
+              <li><a href="Vaardigheden">Vaardigheden</a></li>
+              <li><a href="Werkervaring">Werkervaring</a></li>
+              <li><a href="MD">Mijn Doel</a></li>
+            </ul>
+          </li>
+          <li><a href="CG">Contact</a>
+            <ul>
+              <li><a href="CG">contactgegevens</a></li>
+              <li><a href="Locatie">Locatie</a></li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+  </div>
+  <div class="Maintext">
+    <h1>Algemene Info</h1>
+    <p>Voornaam : Hugo Johannes Hendrik (Hugo)</p>
+    <p> Geslacht : Man </p>
+    <p>Geboortedatum : 24-02-1996</p>
+    <p> Geboorteplaats : Etten-Leur </p>
+    <p>Nationaliteit : Nederlandse</p>
+    <p> Burgerlijke Staat : Ongehuwd </p>
+    <p>Rijbewijs : Geen</p>
+  </div>
+  </body>
+
+
+
+</html>
