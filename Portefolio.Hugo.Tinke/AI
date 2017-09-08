@@ -31,13 +31,13 @@
   </div>
   <div class="Maintext">
     <h1>Algemene Info</h1>
-    <p>Voornaam : Hugo Johannes Hendrik (Hugo)</p>
-    <p> Geslacht : Man </p>
-    <p>Geboortedatum : 24-02-1996</p>
-    <p> Geboorteplaats : Etten-Leur </p>
-    <p>Nationaliteit : Nederlandse</p>
-    <p> Burgerlijke Staat : Ongehuwd </p>
-    <p>Rijbewijs : Geen</p>
+    <p> <strong>Voornaam :</strong> Hugo Johannes Hendrik (Hugo)</p>
+    <p> <strong>Geslacht :</strong> Man </p>
+    <p> <strong>Geboortedatum :</strong> 24-02-1996</p>
+    <p> <strong>Geboorteplaats :</strong> Etten-Leur </p>
+    <p> <strong>Nationaliteit :</strong> Nederlandse</p>
+    <p> <strong>Burgerlijke Staat :</strong> Ongehuwd </p>
+    <p> <strong>Rijbewijs :</strong> Geen</p>
   </div>
   </body>
 

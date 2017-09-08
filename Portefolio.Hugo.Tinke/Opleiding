@@ -32,10 +32,10 @@
   <div class="Maintext">
     <h1>Opleidingen</h1>
 
-    <p>Landbouwbreed VMBO Gemengde leerweg. Prinsentuin College, Oudenbosch (diploma behaald)</p>
-    <p>Ondernemer/manager Dierkunde MBO niveau 4. Wellant College, Aalsmeer(diploma behaald)</p>
-    <P>Bos & Natuurbeheer HBO. van Hall Larenstein, Velp (diploma niet behaald)</p>
-    <P>ICT Aplicatie Ontwikkelaar. Davinci College,Dordrecht (Nog niet afgerond)</p>
+    <p>Landbouwbreed VMBO Gemengde leerweg. Prinsentuin College, Oudenbosch <strong>(diploma behaald)</strong></p>
+    <p>Ondernemer/manager Dierkunde MBO niveau 4. Wellant College, Aalsmeer<strong>(diploma behaald)</strong></p>
+    <P>Bos & Natuurbeheer HBO. van Hall Larenstein, Velp  <strong>(diploma niet behaald)</strong></p>
+    <P>ICT Aplicatie Ontwikkelaar. Davinci College,Dordrecht <strong>(Nog niet afgerond)</strong></p>
 
   </div>
   </body>
