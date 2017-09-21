@@ -2,7 +2,7 @@
       body {
           background:url('downloaded.jpg') ;
           background-size: cover;
-
+          font-family: sans-serif;
     }
 
       .Maintext {
@@ -11,7 +11,6 @@
           margin: 50px;
           width: 600px;
           height: 700px;
-          font-family: georgia;
           border-radius: 10px;
           color: white;
 
@@ -101,7 +100,7 @@
       nav ul li:hover ul li:last-child {
       	display: block;
         opacity: 0;
-        animation: load 500ms forwards;
+        animation: load 1s forwards;
         border-bottom-left-radius: 10px;
         border-bottom-right-radius: 10px;
 }
@@ -109,6 +108,8 @@
           color:white;
 }
       @keyframes load {
-        100%{
+        100%
+        {
           opacity: 1;
         }
+}
